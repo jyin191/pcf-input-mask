@@ -1,0 +1,26 @@
+.input-mask-control {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.input-mask-control input {
+  width: 100%;
+  min-height: 32px;
+  padding: 6px 8px;
+  font-size: 14px;
+  border: 1px solid #8a8886;
+  border-radius: 4px;
+  background: #ffffff;
+  color: #1b1a19;
+  box-sizing: border-box;
+}
+
+.input-mask-control input:focus {
+  border-color: #0078d4;
+  outline: 2px solid rgba(0, 120, 212, 0.2);
+}
+
+.input-mask-control input:read-only {
+  background: #f3f2f1;
+  color: #605e5c;
+}

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c34e0898b77</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c34e0898b77</value>
+  </resheader>
+  <data name="InputMask_Display_Key" xml:space="preserve">
+    <value>Input Mask</value>
+  </data>
+  <data name="InputMask_Description_Key" xml:space="preserve">
+    <value>Applies masks like phone, SSN, and custom patterns.</value>
+  </data>
+  <data name="Value" xml:space="preserve">
+    <value>Value</value>
+  </data>
+  <data name="Value_Description" xml:space="preserve">
+    <value>Bound field value</value>
+  </data>
+  <data name="Mask" xml:space="preserve">
+    <value>Mask</value>
+  </data>
+  <data name="Mask_Description" xml:space="preserve">
+    <value>Mask definition to apply, such as (###) ###-####</value>
+  </data>
+  <data name="PhoneFormatting" xml:space="preserve">
+    <value>Phone formatting</value>
+  </data>
+  <data name="PhoneFormatting_Description" xml:space="preserve">
+    <value>Treat the value as a phone number: accept + international numbers and drop a leading 1. Turn off for SSN, postal codes, and other masks</value>
+  </data>
+  <data name="PlaceholderChar" xml:space="preserve">
+    <value>Placeholder character</value>
+  </data>
+  <data name="PlaceholderChar_Description" xml:space="preserve">
+    <value>Character used for unfilled mask positions</value>
+  </data>
+  <data name="AllowExtraDigits" xml:space="preserve">
+    <value>Allow extra digits</value>
+  </data>
+  <data name="AllowExtraDigits_Description" xml:space="preserve">
+    <value>Allows characters beyond the mask length (for example a phone extension)</value>
+  </data>
+</root>
