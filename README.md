@@ -1,6 +1,6 @@
 # Input Mask PCF Control
 
-This project provides a reusable PCF solution for input masking in both canvas apps and model-driven forms. It behaves like the retired Access Input Mask concept, but is built for modern Power Apps and keeps the raw value separate from the display formatting.
+This project provides a reusable PCF solution for input masking in both canvas apps and model-driven forms. It behaves like the *retired* Input Mask concept, but is built for modern Power Apps and keeps the raw value separate from the display formatting.
 
 ## What this solves
 
